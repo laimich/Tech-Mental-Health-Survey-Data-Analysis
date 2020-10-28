@@ -1,4 +1,4 @@
-# Tech-Mental-Health-Survey-Data-Analysis
+# Tech Mental Health Survey Data Analysis
 Data set: [Kaggle](https://www.kaggle.com/anth7310/mental-health-in-the-tech-industry)
 
 ### Purpose
