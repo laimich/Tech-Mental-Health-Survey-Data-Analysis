@@ -9,18 +9,18 @@ Data set: [Kaggle](https://www.kaggle.com/anth7310/mental-health-in-the-tech-ind
 - Correlation vs Causality
 
 ### Questions
-1. How easy is it to take medical leave for a mental health condition at work?
+1. Ease level for taking medical leave for mental health conditions at work?
    - Compare how results differ for tech employers vs non tech employers.
-2. Do you think discussing a mental health issue with your employer would have negative consequences?
+2. Do people think discussing mental health issues with their employer would have negative consequences?
    - Compare how results differ for tech employers vs non tech employers.
-3. How much importance does your employer place on mental health? Physical health?
+3. How much importance do employers place on mental health? How about in comparison to physical health? 
    - Compare the distribution of ratings for each question, mental health and physical health.
    - Compare how both results differ for tech employers vs non tech employers.
-4. Based on age, how well do you think the tech industry supports employees with mental health? (combine years 2017, 2018, 2019)
+4. Based on age, how well do people think the tech industry supports employees with mental health concerns?
    - Compare overtime by the survey years, 2017, 2018, and 2019.
-5. Have you observed or experienced supportive response to mental health at work? An unsupportive response?
+5. Have people observed or experienced a supportive response to mental health at work? How about in comparison to an unsupportive response?
    - Compare the distribution of responses for each question, supportive and unsupportive.
-   - Compare how both results differ overtime by the survey years, 2017, 2018, 2019.
+   - Compare how both results differ overtime by the survey years, 2017, 2018, and 2019.
 
 ### Conclusions
 ##### Question 1
