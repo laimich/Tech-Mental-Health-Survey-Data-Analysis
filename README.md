@@ -1,4 +1,4 @@
-# Mental Health in the Tech Industry Data Analysis
+# Data Analysis of Mental Health in the Tech Industry
 Data set: [Kaggle](https://www.kaggle.com/anth7310/mental-health-in-the-tech-industry)
 
 ### Purpose
