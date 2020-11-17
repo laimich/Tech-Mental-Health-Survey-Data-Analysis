@@ -7,6 +7,9 @@ Data set: [Kaggle](https://www.kaggle.com/anth7310/mental-health-in-the-tech-ind
 - Perform data analysis with data frames and advanced SQL queries
 - Create different data visualizations using seaborn and matplotlib
 - Correlation vs Causality
+- How is mental health handled in the tech industry? 
+   - Compared to non tech industry?
+   - How has is changed overtime?
 
 ### Questions
 1. Ease level for taking medical leave for mental health conditions at work?
