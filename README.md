@@ -9,7 +9,8 @@ Data set: [Kaggle](https://www.kaggle.com/anth7310/mental-health-in-the-tech-ind
 - Correlation vs Causality
 - How is mental health handled in the tech industry? 
    - Compared to non tech industry?
-   - How has is changed overtime?
+   - How has it changed overtime? 
+   - Has the tech industry become more accepting/open to mental health?
 
 ### Questions
 1. Ease level for taking medical leave for mental health conditions at work?
